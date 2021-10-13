@@ -26,3 +26,10 @@ function selamla(str, nameArg) { // str: ["Merhaba ",""]
 let name = "Ali";
 selamla`Merhaba ${name}`;
 // selamlar! hoşgeldin Ali
+
+/* ==================================== */
+
+var a = 5;
+var b = 10;
+console.log (`${a}+${b} toplam.:"${a+b}"`);
+//5 + 10 toplamı..:"15"
